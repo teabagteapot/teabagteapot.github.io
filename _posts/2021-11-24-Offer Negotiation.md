@@ -67,5 +67,5 @@ tags: 求职
 
 ## Reference
 
-1. [《美国码农 compensation negotiation 个人套路](https://blog.douchi.space/?p=272) by 椒盐豆豉
+1. [《美国码农 compensation negotiation 个人套路》](https://blog.douchi.space/?p=272) by 椒盐豆豉
 2. 豆瓣Women in Tech小组讨论帖子[《大家有什么salary/promotion negotiation的经验技巧》](https://www.douban.com/group/topic/193918584/?_i=0413567HODKMCH)
